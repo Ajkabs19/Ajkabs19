@@ -1,4 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtzCeC7r6zb_z9oIf_HSLlEaVj8FJPPUjJkIvPkEeasyKK24&s)](https://ajkabs19.io)
+![pexels-timur-saglambilek-185576](https://github.com/Ajkabs19/Ajkabs19/assets/138918007/1fd6a798-5853-45d3-ae2c-b82dae992ff1)
+
 
 <h1 align="center">Hi 👋, I'm Kehinde Ajadi</h1>
 <h3 align="center">A Data Analyst from Nigeria</h3>
